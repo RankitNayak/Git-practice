@@ -1,0 +1,2 @@
+Hello guys , I  welcome you all to my git repo . This is my first commit . I want to grow in the field of devops and cloud computing.
+I promise to myself , I will not waste my time and focus on building my skills from scratch . 
